@@ -109,3 +109,4 @@ superbank.id
 uob.co.id
 victoriabank.co.id
 wsyariahbukopin.co.id
+isipulsa.web.id
